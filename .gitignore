@@ -1,0 +1,7 @@
+node_modules/
+dist/
+frontend/.git-backup/
+.env
+.env.*
+!*.example
+npm-debug.log*

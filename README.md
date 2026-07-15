@@ -87,7 +87,7 @@ prodesk-capstone-taskmatrix/
 Public Design File
 
 ```
-Add your Figma public link here
+https://www.figma.com/design/Jk6FXNNHA411zqDQKdQ0MI/TaskMatrix---Enterprise-Agile-Project-Management-Platform?node-id=1-3&t=PyzGa3XKfeR9rM9Y-1
 ```
 
 ---

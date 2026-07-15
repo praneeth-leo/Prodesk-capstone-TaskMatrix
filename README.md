@@ -229,7 +229,8 @@ The architecture follows a Modular Monolith approach with clearly separated fron
 
 The backend communicates with MongoDB Atlas for data persistence and Cloudinary for media storage, while Socket.io enables real-time communication between connected users.
 
-> Add your exported System Architecture Diagram here.
+<img width="7944" height="5168" alt="system arch" src="https://github.com/user-attachments/assets/12b48fb1-eca0-4d51-a05f-0760e747c4ab" />
+
 
 ---
 
@@ -243,7 +244,8 @@ The ERD illustrates the relationships between the following collections:
 - Comments
 - Notifications
 
-> Add your exported ERD image here.
+<img width="1656" height="751" alt="erd" src="https://github.com/user-attachments/assets/03c53492-934b-4cef-885d-3a5331cc3936" />
+
 
 ---
 
